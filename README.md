@@ -1,4 +1,4 @@
-Take a look at the website here
+TAKE A LOOK AT THE WEBSITE HERE ➡️
 https://github.com/AkshayTeja/Course-Website-Using-React-Tailwind/assets/117750090/5a6bcdb8-ed0b-4440-b1d2-5c05942d0848
 
 
