@@ -1,5 +1,5 @@
 Take a look at the website here
-https://github.com/AkshayTeja/Course-Website-Using-React-Tailwind/assets/117750090/f80729d0-5205-4109-baea-0c112894264e
+
 
 # Getting Started with Create React App
 
