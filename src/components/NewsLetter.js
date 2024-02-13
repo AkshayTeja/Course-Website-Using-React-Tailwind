@@ -13,7 +13,7 @@ export default function NewsLetter() {
             </div>
             <div className='m-2'> 
                 <input type="text" className='sm:w-full rouneded p-3 mr-2 text-slate-600' placeholder='Email'/>
-                <button className='bg-black text-white p-3 rounded'>Get Started</button>
+                <button className='bg-black text-white p-3 mt-2 rounded'>Get Started</button>
                 <br/>
                 <p className='text-white'>
                     We care about the protection of your data. Read our<br/>
